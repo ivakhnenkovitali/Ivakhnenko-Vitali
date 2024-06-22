@@ -7,11 +7,4 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
-  [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
-
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
-
-Крошечный (micro):  
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username) 
-
+ 
