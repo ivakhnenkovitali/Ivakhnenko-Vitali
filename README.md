@@ -6,6 +6,4 @@ e, I'm <a href="https://daniilshat.ru/" target="_blank">Vitali</a>
 
 
 
-<h1 align="center">Hi ther![slпапвпide-6](https://github.com/ivakhnenkovitali/Ivakhnenko-Vitali/assets/141067997/183964f2-d867-4d61-99cb-b548c0dbe707)
 
- 
